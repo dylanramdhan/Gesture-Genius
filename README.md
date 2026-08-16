@@ -3,6 +3,8 @@
 ## Description
 👋 Developing virtual whiteboard utilizing hand gestures for educators and students for remote teaching. This project was created for in the hackathon sponsored by Hack-Innovat3. The theme for this hackathon was related to technology in education (EDTech), and focuses primarily on the brainstorming, innovating, and creating solutions that addresses challenges and enhance learning experiences through technology.
 
+[Hackathon Info Link](https://us.allhackathons.com/hackathon/hack-innovat3-bu/)
+
 <p align="center">
 <img src="./images/demo.png" width="70%">
 <p align="center">
